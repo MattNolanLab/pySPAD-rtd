@@ -1,12 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to pySPAD documentation!
 ===================================
 
-pySPAD documentation will be hosted here. 
+pySPAD is a unified platform for kilohertz imaging in neuroscience. 
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Before using SPAD camera, please make sure that you read and understand the FAQ pages! This is very important as you might burn the chip accidentally. 
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
