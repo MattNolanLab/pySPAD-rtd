@@ -1,3 +1,7 @@
+FAQS
+=========
+
+
 .. autosummary::
    :toctree: generated
 
