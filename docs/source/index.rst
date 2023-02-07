@@ -8,7 +8,7 @@ Before using SPAD camera, please make sure that you read and understand the FAQ 
 
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`installation` the project. and :ref:'faqs'
 
 .. note::
 
